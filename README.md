@@ -21,7 +21,6 @@ Conversor simples de **Celsius ↔ Fahrenheit** feito em **C#** com console inte
    https://dotnet.microsoft.com/download
 
 2. Clonar o repositório
-```bash
 git clone https://github.com/victorbeanssitorres
 /TemperatureConverter-CSharp.git
 cd TemperatureConverter-CSharp
